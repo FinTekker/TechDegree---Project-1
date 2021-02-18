@@ -6,12 +6,15 @@ Submitted by: Faith Wong
 This program randomly selects quotes from a set list and displays them on screen via autorefreshing or user prompt 
 
 # Highlighted Features 
-This program meets all minimum requirements and includes all functionalities required for "Extra Credit":
-a). 2 additional quote object properties - tags, genre - have been added 
+1. This program meets all minimum requirements and includes all functionalities required for "Extra Credit":
+	a). Two additional quote object properties - tags, genre 	- have been added 
 
-b). Background randomly changes colour 
+	b). Background randomly changes colour 
+	
+	c). Auto-refreshed quote feature has been added 
 
-c). Auto-refreshed quote feature has been added 
+2. Code has been test run successfully on non Chrome browers - Internet Explorer. 
+
 
 
 
